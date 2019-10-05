@@ -1,5 +1,4 @@
-# coding=utf-8
-#author : ALVAHROZI PURNAMA
+# coding=utf-5
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
 from multiprocessing.pool import ThreadPool
